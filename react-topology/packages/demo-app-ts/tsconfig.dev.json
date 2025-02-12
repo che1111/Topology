@@ -1,0 +1,13 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "noImplicitAny": false,
+    "skipLibCheck": true,
+    "baseUrl": "src",
+    "paths": {
+      "@patternfly/react-topology": ["../../../react-topology/src/index.ts"]
+    }
+  },
+  "memoryLimit": 4096
+}

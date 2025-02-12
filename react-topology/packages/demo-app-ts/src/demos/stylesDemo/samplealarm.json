@@ -1,0 +1,3466 @@
+[
+    {
+      "deviceName": "HHTZ01G01_BGW01",
+      "alarm": {
+        "type": "AlarmNotification",
+        "notificationType": "ALARM_NOTIFICATION",
+        "alarmType": "PNF_OBJECT",
+        "alarm": {
+          "id": "ab21c67e-af5d-4339-8b99-ae1691d27151",
+          "vnfcNames": ["HHTZ01G01_BGW01"],
+          "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27152"],
+          "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27152",
+          "managedObjectName": "HHTZ01G01_BGW01",
+          "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+          "perceivedSeverity": "CRITICAL",
+          "eventTime": "2024-10-03T09:30:33.533+07:00",
+          "eventType": "EQUIPMENT_ALARM",
+          "probableCause": "SWITCH_DOWN",
+          "faultDetails": ["SWITCH HHTZ01G01_BGW01 with IP 10.73.198.195 was down"],
+          "rootCauseFaultyComponent": {
+            "subObjectInstanceIp": "10.73.198.195"
+          },
+          "metadata": {
+            "manageSubObjectTargetType": "SWITCH",
+            "errorCode": "SWITCH_DOWN",
+            "manageObjectType": "PNF_OBJECT"
+          }
+        }
+      },
+      "resolve_alarm": {
+        "type": "AlarmNotification",
+        "notificationType": "ALARM_CLEARED_NOTIFICATION",
+        "alarmType": "PNF_OBJECT",
+        "alarm": {
+          "id": "ab21c67e-af5d-4339-8b99-ae1691d27151",
+          "vnfcNames": ["HHTZ01G01_BGW01"],
+          "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27152"],
+          "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27152",
+          "managedObjectName": "HHTZ01G01_BGW01",
+          "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+          "perceivedSeverity": "CRITICAL",
+          "eventTime": "2024-10-03T09:30:33.533+07:00",
+          "eventType": "EQUIPMENT_ALARM",
+          "probableCause": "SWITCH_DOWN",
+          "faultDetails": ["SWITCH HHTZ01G01_BGW01 with IP 10.73.198.195 was down"],
+          "rootCauseFaultyComponent": {
+            "subObjectInstanceIp": "10.73.198.195"
+          },
+          "metadata": {
+            "manageSubObjectTargetType": "SWITCH",
+            "errorCode": "SWITCH_DOWN",
+            "manageObjectType": "PNF_OBJECT"
+          }
+        }
+      }
+    },
+    {
+    "deviceName": "HHTZ01G01_BGW02",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27153",
+        "vnfcNames": ["HHTZ01G01_BGW02"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27153"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27153",
+        "managedObjectName": "HHTZ01G01_BGW02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "SWITCH_DOWN",
+        "faultDetails": ["SWITCH HHTZ01G01_BGW02 with IP 10.73.198.197 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.197"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "SWITCH_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27153",
+        "vnfcNames": ["HHTZ01G01_BGW02"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27153"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27153",
+        "managedObjectName": "HHTZ01G01_BGW02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "SWITCH_DOWN",
+        "faultDetails": ["SWITCH HHTZ01G01_BGW02 with IP 10.73.198.197 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.197"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "SWITCH_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HHTZ01G02_BGW03",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27154",
+        "vnfcNames": ["HHTZ01G02_BGW03"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27154"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27154",
+        "managedObjectName": "HHTZ01G02_BGW03",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "SWITCH_DOWN",
+        "faultDetails": ["SWITCH HHTZ01G02_BGW03 with IP 10.73.198.198 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.198"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "SWITCH_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27154",
+        "vnfcNames": ["HHTZ01G02_BGW03"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27154"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27154",
+        "managedObjectName": "HHTZ01G02_BGW03",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "SWITCH_DOWN",
+        "faultDetails": ["SWITCH HHTZ01G02_BGW03 with IP 10.73.198.198 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.198"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "SWITCH_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HHTZ01G02_BGW04",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27155",
+        "vnfcNames": ["HHTZ01G02_BGW04"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27155"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27155",
+        "managedObjectName": "HHTZ01G02_BGW04",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "SWITCH_DOWN",
+        "faultDetails": ["SWITCH HHTZ01G02_BGW04 with IP 10.73.198.199 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.199"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "SWITCH_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27155",
+        "vnfcNames": ["HHTZ01G02_BGW04"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27155"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27155",
+        "managedObjectName": "HHTZ01G02_BGW04",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "SWITCH_DOWN",
+        "faultDetails": ["SWITCH HHTZ01G02_BGW04 with IP 10.73.198.199 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.199"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "SWITCH_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HHTZ01G01_SPINE01",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27156",
+        "vnfcNames": ["HHTZ01G01_SPINE01"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27156"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27156",
+        "managedObjectName": "HHTZ01G01_SPINE01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "SPINE_DOWN",
+        "faultDetails": ["SPINE HHTZ01G01_SPINE01 with IP 10.73.199.195 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.199.195"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "SPINE_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27156",
+        "vnfcNames": ["HHTZ01G01_SPINE01"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27156"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27156",
+        "managedObjectName": "HHTZ01G01_SPINE01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "SPINE_DOWN",
+        "faultDetails": ["SPINE HHTZ01G01_SPINE01 with IP 10.73.199.195 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.199.195"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "SPINE_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HHTZ01G02_SPINE02",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27157",
+        "vnfcNames": ["HHTZ01G02_SPINE02"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27157"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27157",
+        "managedObjectName": "HHTZ01G02_SPINE02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "SPINE_DOWN",
+        "faultDetails": ["SPINE HHTZ01G02_SPINE02 with IP 10.73.199.196 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.199.196"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "SPINE_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27157",
+        "vnfcNames": ["HHTZ01G02_SPINE02"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27157"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27157",
+        "managedObjectName": "HHTZ01G02_SPINE02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "SPINE_DOWN",
+        "faultDetails": ["SPINE HHTZ01G02_SPINE02 with IP 10.73.199.196 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.199.196"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "SPINE_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HHTZ01G03_SPINE03",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27158",
+        "vnfcNames": ["HHTZ01G03_SPINE03"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27158"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27158",
+        "managedObjectName": "HHTZ01G03_SPINE03",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "SPINE_DOWN",
+        "faultDetails": ["SPINE HHTZ01G03_SPINE03 with IP 10.73.199.197 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.199.197"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "SPINE_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27158",
+        "vnfcNames": ["HHTZ01G03_SPINE03"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27158"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27158",
+        "managedObjectName": "HHTZ01G03_SPINE03",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "SPINE_DOWN",
+        "faultDetails": ["SPINE HHTZ01G03_SPINE03 with IP 10.73.199.197 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.199.197"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "SPINE_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HHTZ01G01_LEAF01",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27159",
+        "vnfcNames": ["HHTZ01G01_LEAF01"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27159"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27159",
+        "managedObjectName": "HHTZ01G01_LEAF01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "LEAF_DOWN",
+        "faultDetails": ["LEAF HHTZ01G01_LEAF01 with IP 10.73.200.195 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.200.195"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "LEAF_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27159",
+        "vnfcNames": ["HHTZ01G01_LEAF01"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27159"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27159",
+        "managedObjectName": "HHTZ01G01_LEAF01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "LEAF_DOWN",
+        "faultDetails": ["LEAF HHTZ01G01_LEAF01 with IP 10.73.200.195 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.200.195"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "LEAF_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HHTZ01G01_LEAF02",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27160",
+        "vnfcNames": ["HHTZ01G01_LEAF02"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27160"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27160",
+        "managedObjectName": "HHTZ01G01_LEAF02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "LEAF_DOWN",
+        "faultDetails": ["LEAF HHTZ01G01_LEAF02 with IP 10.73.200.196 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.200.196"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "LEAF_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27160",
+        "vnfcNames": ["HHTZ01G01_LEAF02"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27160"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27160",
+        "managedObjectName": "HHTZ01G01_LEAF02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "LEAF_DOWN",
+        "faultDetails": ["LEAF HHTZ01G01_LEAF02 with IP 10.73.200.196 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.200.196"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "LEAF_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HHTZ01G01_LB01",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27161",
+        "vnfcNames": ["HHTZ01G01_LB01"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27161"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27161",
+        "managedObjectName": "HHTZ01G01_LB01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "LB_DOWN",
+        "faultDetails": ["LOAD BALANCER HHTZ01G01_LB01 with IP 10.73.210.195 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.210.195"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "LB",
+          "errorCode": "LB_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27161",
+        "vnfcNames": ["HHTZ01G01_LB01"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27161"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27161",
+        "managedObjectName": "HHTZ01G01_LB01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "LB_DOWN",
+        "faultDetails": ["LOAD BALANCER HHTZ01G01_LB01 with IP 10.73.210.195 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.210.195"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "LB",
+          "errorCode": "LB_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HHTZ01G01_LB02",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27162",
+        "vnfcNames": ["HHTZ01G01_LB02"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27162"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27162",
+        "managedObjectName": "HHTZ01G01_LB02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "LB_DOWN",
+        "faultDetails": ["LOAD BALANCER HHTZ01G01_LB02 with IP 10.73.210.196 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.210.196"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "LB",
+          "errorCode": "LB_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27162",
+        "vnfcNames": ["HHTZ01G01_LB02"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27162"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27162",
+        "managedObjectName": "HHTZ01G01_LB02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "LB_DOWN",
+        "faultDetails": ["LOAD BALANCER HHTZ01G01_LB02 with IP 10.73.210.196 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.210.196"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "LB",
+          "errorCode": "LB_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HHTZ01G01_FW01",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27163",
+        "vnfcNames": ["HHTZ01G01_FW01"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27163"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27163",
+        "managedObjectName": "HHTZ01G01_FW01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "FIREWALL_DOWN",
+        "faultDetails": ["FIREWALL HHTZ01G01_FW01 with IP 10.73.220.195 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.220.195"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "FIREWALL",
+          "errorCode": "FIREWALL_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27163",
+        "vnfcNames": ["HHTZ01G01_FW01"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27163"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27163",
+        "managedObjectName": "HHTZ01G01_FW01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "FIREWALL_DOWN",
+        "faultDetails": ["FIREWALL HHTZ01G01_FW01 with IP 10.73.220.195 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.220.195"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "FIREWALL",
+          "errorCode": "FIREWALL_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HHTZ01G01_FW02",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27164",
+        "vnfcNames": ["HHTZ01G01_FW02"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27164"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27164",
+        "managedObjectName": "HHTZ01G01_FW02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "FIREWALL_DOWN",
+        "faultDetails": ["FIREWALL HHTZ01G01_FW02 with IP 10.73.220.196 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.220.196"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "FIREWALL",
+          "errorCode": "FIREWALL_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27164",
+        "vnfcNames": ["HHTZ01G01_FW02"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27164"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27164",
+        "managedObjectName": "HHTZ01G01_FW02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "FIREWALL_DOWN",
+        "faultDetails": ["FIREWALL HHTZ01G01_FW02 with IP 10.73.220.196 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.220.196"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "FIREWALL",
+          "errorCode": "FIREWALL_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HHTZ01G01_FW03",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "fw03-ab21c67e-af5d-4339-8b99-ae1691d27165",
+        "vnfcNames": ["HHTZ01G01_FW03"],
+        "vnfcIds": ["fw03-ab21c67e-af5d-4339-8b99-ae1691d27165"],
+        "managedObjectId": "fw03-ab21c67e-af5d-4339-8b99-ae1691d27165",
+        "managedObjectName": "HHTZ01G01_FW03",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "FIREWALL_DOWN",
+        "faultDetails": ["FIREWALL HHTZ01G01_FW03 with IP 10.73.220.197 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.220.197"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "FIREWALL",
+          "errorCode": "FIREWALL_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "fw03-ab21c67e-af5d-4339-8b99-ae1691d27165",
+        "vnfcNames": ["HHTZ01G01_FW03"],
+        "vnfcIds": ["fw03-ab21c67e-af5d-4339-8b99-ae1691d27165"],
+        "managedObjectId": "fw03-ab21c67e-af5d-4339-8b99-ae1691d27165",
+        "managedObjectName": "HHTZ01G01_FW03",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "FIREWALL_DOWN",
+        "faultDetails": ["FIREWALL HHTZ01G01_FW03 with IP 10.73.220.197 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.220.197"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "FIREWALL",
+          "errorCode": "FIREWALL_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HHTZ01G01_FW04",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "fw04-ab21c67e-af5d-4339-8b99-ae1691d27166",
+        "vnfcNames": ["HHTZ01G01_FW04"],
+        "vnfcIds": ["fw04-ab21c67e-af5d-4339-8b99-ae1691d27166"],
+        "managedObjectId": "fw04-ab21c67e-af5d-4339-8b99-ae1691d27166",
+        "managedObjectName": "HHTZ01G01_FW04",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "FIREWALL_DOWN",
+        "faultDetails": ["FIREWALL HHTZ01G01_FW04 with IP 10.73.220.198 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.220.198"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "FIREWALL",
+          "errorCode": "FIREWALL_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "fw04-ab21c67e-af5d-4339-8b99-ae1691d27166",
+        "vnfcNames": ["HHTZ01G01_FW04"],
+        "vnfcIds": ["fw04-ab21c67e-af5d-4339-8b99-ae1691d27166"],
+        "managedObjectId": "fw04-ab21c67e-af5d-4339-8b99-ae1691d27166",
+        "managedObjectName": "HHTZ01G01_FW04",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "FIREWALL_DOWN",
+        "faultDetails": ["FIREWALL HHTZ01G01_FW04 with IP 10.73.220.198 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.220.198"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "FIREWALL",
+          "errorCode": "FIREWALL_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HHTZ02G01_SPINE01",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27171",
+        "vnfcNames": ["HHTZ02G01_SPINE01"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27171"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27171",
+        "managedObjectName": "HHTZ02G01_SPINE01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "SPINE_DOWN",
+        "faultDetails": ["SPINE HHTZ02G01_SPINE01 with IP 10.73.230.201 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.230.201"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "SPINE_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27171",
+        "vnfcNames": ["HHTZ02G01_SPINE01"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27171"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27171",
+        "managedObjectName": "HHTZ02G01_SPINE01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "SPINE_DOWN",
+        "faultDetails": ["SPINE HHTZ02G01_SPINE01 with IP 10.73.230.201 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.230.201"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "SPINE_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HHTZ02G02_SPINE02",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27172",
+        "vnfcNames": ["HHTZ02G02_SPINE02"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27172"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27172",
+        "managedObjectName": "HHTZ02G02_SPINE02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "SPINE_DOWN",
+        "faultDetails": ["SPINE HHTZ02G02_SPINE02 with IP 10.73.230.202 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.230.202"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "SPINE_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27172",
+        "vnfcNames": ["HHTZ02G02_SPINE02"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27172"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27172",
+        "managedObjectName": "HHTZ02G02_SPINE02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "SPINE_DOWN",
+        "faultDetails": ["SPINE HHTZ02G02_SPINE02 with IP 10.73.230.202 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.230.202"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "SPINE_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HHTZ02G03_SPINE03",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27173",
+        "vnfcNames": ["HHTZ02G03_SPINE03"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27173"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27173",
+        "managedObjectName": "HHTZ02G03_SPINE03",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "SPINE_DOWN",
+        "faultDetails": ["SPINE HHTZ02G03_SPINE03 with IP 10.73.230.203 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.230.203"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "SPINE_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27173",
+        "vnfcNames": ["HHTZ02G03_SPINE03"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27173"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27173",
+        "managedObjectName": "HHTZ02G03_SPINE03",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "SPINE_DOWN",
+        "faultDetails": ["SPINE HHTZ02G03_SPINE03 with IP 10.73.230.203 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.230.203"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "SPINE_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HHTZ02G01_BGW01",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27181",
+        "vnfcNames": ["HHTZ02G01_BGW01"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27181"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27181",
+        "managedObjectName": "HHTZ02G01_BGW01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "BGW_DOWN",
+        "faultDetails": ["BGW HHTZ02G01_BGW01 with IP 10.73.240.201 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.240.201"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "BGW_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27181",
+        "vnfcNames": ["HHTZ02G01_BGW01"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27181"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27181",
+        "managedObjectName": "HHTZ02G01_BGW01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "BGW_DOWN",
+        "faultDetails": ["BGW HHTZ02G01_BGW01 with IP 10.73.240.201 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.240.201"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "BGW_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HHTZ02G01_BGW02",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27182",
+        "vnfcNames": ["HHTZ02G01_BGW02"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27182"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27182",
+        "managedObjectName": "HHTZ02G01_BGW02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "BGW_DOWN",
+        "faultDetails": ["BGW HHTZ02G01_BGW02 with IP 10.73.240.202 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.240.202"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "BGW_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27182",
+        "vnfcNames": ["HHTZ02G01_BGW02"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27182"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27182",
+        "managedObjectName": "HHTZ02G01_BGW02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "BGW_DOWN",
+        "faultDetails": ["BGW HHTZ02G01_BGW02 with IP 10.73.240.202 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.240.202"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "BGW_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HHTZ02G02_BGW03",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27183",
+        "vnfcNames": ["HHTZ02G02_BGW03"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27183"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27183",
+        "managedObjectName": "HHTZ02G02_BGW03",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "BGW_DOWN",
+        "faultDetails": ["BGW HHTZ02G02_BGW03 with IP 10.73.250.203 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.250.203"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "BGW_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27183",
+        "vnfcNames": ["HHTZ02G02_BGW03"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27183"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27183",
+        "managedObjectName": "HHTZ02G02_BGW03",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "BGW_DOWN",
+        "faultDetails": ["BGW HHTZ02G02_BGW03 with IP 10.73.250.203 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.250.203"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "BGW_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HHTZ02G02_BGW04",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27184",
+        "vnfcNames": ["HHTZ02G02_BGW04"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27184"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27184",
+        "managedObjectName": "HHTZ02G02_BGW04",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "BGW_DOWN",
+        "faultDetails": ["BGW HHTZ02G02_BGW04 with IP 10.73.240.204 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.240.204"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "BGW_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ab21c67e-af5d-4339-8b99-ae1691d27184",
+        "vnfcNames": ["HHTZ02G02_BGW04"],
+        "vnfcIds": ["ab21c67e-af5d-4339-8b99-ae1691d27184"],
+        "managedObjectId": "ab21c67e-af5d-4339-8b99-ae1691d27184",
+        "managedObjectName": "HHTZ02G02_BGW04",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "BGW_DOWN",
+        "faultDetails": ["BGW HHTZ02G02_BGW04 with IP 10.73.240.204 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.240.204"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "BGW_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HHTZ02G01_LEAF01",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "28161ab21c67e-af5d-4339-8b99-ae1691d28161",
+        "vnfcNames": ["HHTZ02G01_LEAF01"],
+        "vnfcIds": ["28161ab21c67e-af5d-4339-8b99-ae1691d28161"],
+        "managedObjectId": "28161ab21c67e-af5d-4339-8b99-ae1691d28161",
+        "managedObjectName": "HHTZ02G01_LEAF01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "LEAF_DOWN",
+        "faultDetails": ["LEAF HHTZ02G01_LEAF01 with IP 10.73.220.201 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.220.201"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "LEAF_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "28161ab21c67e-af5d-4339-8b99-ae1691d28161",
+        "vnfcNames": ["HHTZ02G01_LEAF01"],
+        "vnfcIds": ["28161ab21c67e-af5d-4339-8b99-ae1691d28161"],
+        "managedObjectId": "28161ab21c67e-af5d-4339-8b99-ae1691d28161",
+        "managedObjectName": "HHTZ02G01_LEAF01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "LEAF_DOWN",
+        "faultDetails": ["LEAF HHTZ02G01_LEAF01 with IP 10.73.220.201 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.220.201"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "LEAF_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HHTZ02G01_LEAF02",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "28161ab21c67e-af5d-4339-8b99-ae1691d28162",
+        "vnfcNames": ["HHTZ02G01_LEAF02"],
+        "vnfcIds": ["28161ab21c67e-af5d-4339-8b99-ae1691d28162"],
+        "managedObjectId": "28161ab21c67e-af5d-4339-8b99-ae1691d28162",
+        "managedObjectName": "HHTZ02G01_LEAF02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "LEAF_DOWN",
+        "faultDetails": ["LEAF HHTZ02G01_LEAF02 with IP 10.73.210.202 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.210.202"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "LEAF_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "28161ab21c67e-af5d-4339-8b99-ae1691d28162",
+        "vnfcNames": ["HHTZ02G01_LEAF02"],
+        "vnfcIds": ["28161ab21c67e-af5d-4339-8b99-ae1691d28162"],
+        "managedObjectId": "28161ab21c67e-af5d-4339-8b99-ae1691d28162",
+        "managedObjectName": "HHTZ02G01_LEAF02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "LEAF_DOWN",
+        "faultDetails": ["LEAF HHTZ02G01_LEAF02 with IP 10.73.210.202 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.210.202"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "LEAF_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+  "deviceName": "HHTZ02G01_LB01",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ac21c67e-af5d-4339-8b99-ae1691d27153",
+        "vnfcNames": ["HHTZ02G01_LB01"],
+        "vnfcIds": ["ac21c67e-af5d-4339-8b99-ae1691d27153"],
+        "managedObjectId": "ac21c67e-af5d-4339-8b99-ae1691d27153",
+        "managedObjectName": "HHTZ02G01_LB01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "LB_DOWN",
+        "faultDetails": ["LOAD BALANCER HHTZ02G01_LB01 with IP 10.73.230.201 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.230.201"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "LB",
+          "errorCode": "LB_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ac21c67e-af5d-4339-8b99-ae1691d27153",
+        "vnfcNames": ["HHTZ02G01_LB01"],
+        "vnfcIds": ["ac21c67e-af5d-4339-8b99-ae1691d27153"],
+        "managedObjectId": "ac21c67e-af5d-4339-8b99-ae1691d27153",
+        "managedObjectName": "HHTZ02G01_LB01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "LB_DOWN",
+        "faultDetails": ["LOAD BALANCER HHTZ02G01_LB01 with IP 10.73.230.201 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.230.201"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "LB",
+          "errorCode": "LB_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HHTZ02G01_LB02",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ac21c67e-af5d-4339-8b99-ae1691d27164",
+        "vnfcNames": ["HHTZ02G01_LB02"],
+        "vnfcIds": ["ac21c67e-af5d-4339-8b99-ae1691d27164"],
+        "managedObjectId": "ac21c67e-af5d-4339-8b99-ae1691d27164",
+        "managedObjectName": "HHTZ02G01_LB02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "LB_DOWN",
+        "faultDetails": ["LOAD BALANCER HHTZ02G01_LB02 with IP 10.73.230.202 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.230.202"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "LB",
+          "errorCode": "LB_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "ac21c67e-af5d-4339-8b99-ae1691d27164",
+        "vnfcNames": ["HHTZ02G01_LB02"],
+        "vnfcIds": ["ac21c67e-af5d-4339-8b99-ae1691d27164"],
+        "managedObjectId": "ac21c67e-af5d-4339-8b99-ae1691d27164",
+        "managedObjectName": "HHTZ02G01_LB02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "LB_DOWN",
+        "faultDetails": ["LOAD BALANCER HHTZ02G01_LB02 with IP 10.73.230.202 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.230.202"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "LB",
+          "errorCode": "LB_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HHTZ02G01_FW01",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "bc21c67e-af5d-4339-8b99-ae1691d27165",
+        "vnfcNames": ["HHTZ02G01_FW01"],
+        "vnfcIds": ["bc21c67e-af5d-4339-8b99-ae1691d27165"],
+        "managedObjectId": "bc21c67e-af5d-4339-8b99-ae1691d27165",
+        "managedObjectName": "HHTZ02G01_FW01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "FIREWALL_DOWN",
+        "faultDetails": ["FIREWALL HHTZ02G01_FW01 with IP 10.73.240.201 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.240.201"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "FIREWALL",
+          "errorCode": "FIREWALL_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "bc21c67e-af5d-4339-8b99-ae1691d27165",
+        "vnfcNames": ["HHTZ02G01_FW01"],
+        "vnfcIds": ["bc21c67e-af5d-4339-8b99-ae1691d27165"],
+        "managedObjectId": "bc21c67e-af5d-4339-8b99-ae1691d27165",
+        "managedObjectName": "HHTZ02G01_FW01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "FIREWALL_DOWN",
+        "faultDetails": ["FIREWALL HHTZ02G01_FW01 with IP 10.73.240.201 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.240.201"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "FIREWALL",
+          "errorCode": "FIREWALL_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HHTZ02G01_FW02",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "bc21c67e-af5d-4339-8b99-ae1691d27166",
+        "vnfcNames": ["HHTZ02G01_FW02"],
+        "vnfcIds": ["bc21c67e-af5d-4339-8b99-ae1691d27166"],
+        "managedObjectId": "bc21c67e-af5d-4339-8b99-ae1691d27166",
+        "managedObjectName": "HHTZ02G01_FW02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "FIREWALL_DOWN",
+        "faultDetails": ["FIREWALL HHTZ02G01_FW02 with IP 10.73.240.202 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.240.202"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "FIREWALL",
+          "errorCode": "FIREWALL_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "bc21c67e-af5d-4339-8b99-ae1691d27166",
+        "vnfcNames": ["HHTZ02G01_FW02"],
+        "vnfcIds": ["bc21c67e-af5d-4339-8b99-ae1691d27166"],
+        "managedObjectId": "bc21c67e-af5d-4339-8b99-ae1691d27166",
+        "managedObjectName": "HHTZ02G01_FW02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "FIREWALL_DOWN",
+        "faultDetails": ["FIREWALL HHTZ02G01_FW02 with IP 10.73.240.202 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.240.202"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "FIREWALL",
+          "errorCode": "FIREWALL_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HHTZ02G01_FW03",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "cd21c67e-af5d-4339-8b99-ae1691d27167",
+        "vnfcNames": ["HHTZ02G01_FW03"],
+        "vnfcIds": ["cd21c67e-af5d-4339-8b99-ae1691d27167"],
+        "managedObjectId": "cd21c67e-af5d-4339-8b99-ae1691d27167",
+        "managedObjectName": "HHTZ02G01_FW03",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "FIREWALL_DOWN",
+        "faultDetails": ["FIREWALL HHTZ02G01_FW03 with IP 10.73.240.203 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.240.203"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "FIREWALL",
+          "errorCode": "FIREWALL_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "cd21c67e-af5d-4339-8b99-ae1691d27167",
+        "vnfcNames": ["HHTZ02G01_FW03"],
+        "vnfcIds": ["cd21c67e-af5d-4339-8b99-ae1691d27167"],
+        "managedObjectId": "cd21c67e-af5d-4339-8b99-ae1691d27167",
+        "managedObjectName": "HHTZ02G01_FW03",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "FIREWALL_DOWN",
+        "faultDetails": ["FIREWALL HHTZ02G01_FW03 with IP 10.73.240.203 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.240.203"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "FIREWALL",
+          "errorCode": "FIREWALL_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HHTZ02G01_FW04",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "cd21c67e-af5d-4339-8b99-ae1691d27168",
+        "vnfcNames": ["HHTZ02G01_FW04"],
+        "vnfcIds": ["cd21c67e-af5d-4339-8b99-ae1691d27168"],
+        "managedObjectId": "cd21c67e-af5d-4339-8b99-ae1691d27168",
+        "managedObjectName": "HHTZ02G01_FW04",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "FIREWALL_DOWN",
+        "faultDetails": ["FIREWALL HHTZ02G01_FW04 with IP 10.73.240.204 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.240.204"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "FIREWALL",
+          "errorCode": "FIREWALL_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "cd21c67e-af5d-4339-8b99-ae1691d27168",
+        "vnfcNames": ["HHTZ02G01_FW04"],
+        "vnfcIds": ["cd21c67e-af5d-4339-8b99-ae1691d27168"],
+        "managedObjectId": "cd21c67e-af5d-4339-8b99-ae1691d27168",
+        "managedObjectName": "HHTZ02G01_FW04",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "FIREWALL_DOWN",
+        "faultDetails": ["FIREWALL HHTZ02G01_FW04 with IP 10.73.240.204 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.240.204"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "FIREWALL",
+          "errorCode": "FIREWALL_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HLCZ01G01_SPINE01",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "21c67e-af5d-4339-8b99-ae1691d27169",
+        "vnfcNames": ["HLCZ01G01_SPINE01"],
+        "vnfcIds": ["21c67e-af5d-4339-8b99-ae1691d27169"],
+        "managedObjectId": "21c67e-af5d-4339-8b99-ae1691d27169",
+        "managedObjectName": "HLCZ01G01_SPINE01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "SPINE_DOWN",
+        "faultDetails": ["SPINE HLCZ01G01_SPINE01 with IP 10.73.250.201 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.250.201"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "SPINE_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "21c67e-af5d-4339-8b99-ae1691d27169",
+        "vnfcNames": ["HLCZ01G01_SPINE01"],
+        "vnfcIds": ["21c67e-af5d-4339-8b99-ae1691d27169"],
+        "managedObjectId": "21c67e-af5d-4339-8b99-ae1691d27169",
+        "managedObjectName": "HLCZ01G01_SPINE01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "SPINE_DOWN",
+        "faultDetails": ["SPINE HLCZ01G01_SPINE01 with IP 10.73.250.201 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.250.201"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "SPINE_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HLCZ01G02_SPINE02",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "21c67e-af5d-4339-8b99-ae1691d27170",
+        "vnfcNames": ["HLCZ01G02_SPINE02"],
+        "vnfcIds": ["21c67e-af5d-4339-8b99-ae1691d27170"],
+        "managedObjectId": "21c67e-af5d-4339-8b99-ae1691d27170",
+        "managedObjectName": "HLCZ01G02_SPINE02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "SPINE_DOWN",
+        "faultDetails": ["SPINE HLCZ01G02_SPINE02 with IP 10.73.250.202 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.250.202"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "SPINE_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "21c67e-af5d-4339-8b99-ae1691d27170",
+        "vnfcNames": ["HLCZ01G02_SPINE02"],
+        "vnfcIds": ["21c67e-af5d-4339-8b99-ae1691d27170"],
+        "managedObjectId": "21c67e-af5d-4339-8b99-ae1691d27170",
+        "managedObjectName": "HLCZ01G02_SPINE02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "SPINE_DOWN",
+        "faultDetails": ["SPINE HLCZ01G02_SPINE02 with IP 10.73.250.202 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.250.202"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "SPINE_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HLCZ01G03_SPINE03",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "21c67e-af5d-4339-8b99-ae1691d27171",
+        "vnfcNames": ["HLCZ01G03_SPINE03"],
+        "vnfcIds": ["21c67e-af5d-4339-8b99-ae1691d27171"],
+        "managedObjectId": "21c67e-af5d-4339-8b99-ae1691d27171",
+        "managedObjectName": "HLCZ01G03_SPINE03",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "SPINE_DOWN",
+        "faultDetails": ["SPINE HLCZ01G03_SPINE03 with IP 10.73.250.203 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.250.203"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "SPINE_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "21c67e-af5d-4339-8b99-ae1691d27171",
+        "vnfcNames": ["HLCZ01G03_SPINE03"],
+        "vnfcIds": ["21c67e-af5d-4339-8b99-ae1691d27171"],
+        "managedObjectId": "21c67e-af5d-4339-8b99-ae1691d27171",
+        "managedObjectName": "HLCZ01G03_SPINE03",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "SPINE_DOWN",
+        "faultDetails": ["SPINE HLCZ01G03_SPINE03 with IP 10.73.250.203 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.250.203"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "SPINE_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HLCZ01G01_SPINE01",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "21c67e-af5d-4339-8b99-ae1691d27169",
+        "vnfcNames": ["HLCZ01G01_SPINE01"],
+        "vnfcIds": ["21c67e-af5d-4339-8b99-ae1691d27169"],
+        "managedObjectId": "21c67e-af5d-4339-8b99-ae1691d27169",
+        "managedObjectName": "HLCZ01G01_SPINE01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "SPINE_DOWN",
+        "faultDetails": ["SPINE HLCZ01G01_SPINE01 with IP 10.73.250.201 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.250.201"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "SPINE_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "21c67e-af5d-4339-8b99-ae1691d27169",
+        "vnfcNames": ["HLCZ01G01_SPINE01"],
+        "vnfcIds": ["21c67e-af5d-4339-8b99-ae1691d27169"],
+        "managedObjectId": "21c67e-af5d-4339-8b99-ae1691d27169",
+        "managedObjectName": "HLCZ01G01_SPINE01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "SPINE_DOWN",
+        "faultDetails": ["SPINE HLCZ01G01_SPINE01 with IP 10.73.250.201 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.250.201"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "SPINE_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HLCZ01G02_SPINE02",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "21c67e-af5d-4339-8b99-ae1691d27170",
+        "vnfcNames": ["HLCZ01G02_SPINE02"],
+        "vnfcIds": ["21c67e-af5d-4339-8b99-ae1691d27170"],
+        "managedObjectId": "21c67e-af5d-4339-8b99-ae1691d27170",
+        "managedObjectName": "HLCZ01G02_SPINE02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "SPINE_DOWN",
+        "faultDetails": ["SPINE HLCZ01G02_SPINE02 with IP 10.73.250.202 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.250.202"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "SPINE_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "21c67e-af5d-4339-8b99-ae1691d27170",
+        "vnfcNames": ["HLCZ01G02_SPINE02"],
+        "vnfcIds": ["21c67e-af5d-4339-8b99-ae1691d27170"],
+        "managedObjectId": "21c67e-af5d-4339-8b99-ae1691d27170",
+        "managedObjectName": "HLCZ01G02_SPINE02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "SPINE_DOWN",
+        "faultDetails": ["SPINE HLCZ01G02_SPINE02 with IP 10.73.250.202 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.250.202"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "SPINE_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HLCZ01G03_SPINE03",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "21c67e-af5d-4339-8b99-ae1691d27171",
+        "vnfcNames": ["HLCZ01G03_SPINE03"],
+        "vnfcIds": ["21c67e-af5d-4339-8b99-ae1691d27171"],
+        "managedObjectId": "21c67e-af5d-4339-8b99-ae1691d27171",
+        "managedObjectName": "HLCZ01G03_SPINE03",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "SPINE_DOWN",
+        "faultDetails": ["SPINE HLCZ01G03_SPINE03 with IP 10.73.250.203 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.250.203"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "SPINE_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "21c67e-af5d-4339-8b99-ae1691d27171",
+        "vnfcNames": ["HLCZ01G03_SPINE03"],
+        "vnfcIds": ["21c67e-af5d-4339-8b99-ae1691d27171"],
+        "managedObjectId": "21c67e-af5d-4339-8b99-ae1691d27171",
+        "managedObjectName": "HLCZ01G03_SPINE03",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "SPINE_DOWN",
+        "faultDetails": ["SPINE HLCZ01G03_SPINE03 with IP 10.73.250.203 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.250.203"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "SPINE_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HLCZ01G01_BGW01",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "3c21e45f-af6d-1234-8b99-ae1691d27169",
+        "vnfcNames": ["HLCZ01G01_BGW01"],
+        "vnfcIds": ["3c21e45f-af6d-1234-8b99-ae1691d27169"],
+        "managedObjectId": "3c21e45f-af6d-1234-8b99-ae1691d27169",
+        "managedObjectName": "HLCZ01G01_BGW01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "BGW_DOWN",
+        "faultDetails": ["BGW HLCZ01G01_BGW01 with IP 10.73.250.101 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.250.101"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "BGW_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "3c21e45f-af6d-1234-8b99-ae1691d27169",
+        "vnfcNames": ["HLCZ01G01_BGW01"],
+        "vnfcIds": ["3c21e45f-af6d-1234-8b99-ae1691d27169"],
+        "managedObjectId": "3c21e45f-af6d-1234-8b99-ae1691d27169",
+        "managedObjectName": "HLCZ01G01_BGW01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "BGW_DOWN",
+        "faultDetails": ["BGW HLCZ01G01_BGW01 with IP 10.73.250.101 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.250.101"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "BGW_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HLCZ01G01_BGW02",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "5a23b98d-af6d-5678-9b99-ae1691d27180",
+        "vnfcNames": ["HLCZ01G01_BGW02"],
+        "vnfcIds": ["5a23b98d-af6d-5678-9b99-ae1691d27180"],
+        "managedObjectId": "5a23b98d-af6d-5678-9b99-ae1691d27180",
+        "managedObjectName": "HLCZ01G01_BGW02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "BGW_DOWN",
+        "faultDetails": ["BGW HLCZ01G01_BGW02 with IP 10.73.250.102 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.250.102"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "BGW_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "5a23b98d-af6d-5678-9b99-ae1691d27180",
+        "vnfcNames": ["HLCZ01G01_BGW02"],
+        "vnfcIds": ["5a23b98d-af6d-5678-9b99-ae1691d27180"],
+        "managedObjectId": "5a23b98d-af6d-5678-9b99-ae1691d27180",
+        "managedObjectName": "HLCZ01G01_BGW02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "BGW_DOWN",
+        "faultDetails": ["BGW HLCZ01G01_BGW02 with IP 10.73.250.102 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.250.102"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "BGW_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HLCZ01G02_BGW03",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "6f21a67e-af5d-1234-8b99-ae1691d27167",
+        "vnfcNames": ["HLCZ01G02_BGW03"],
+        "vnfcIds": ["6f21a67e-af5d-1234-8b99-ae1691d27167"],
+        "managedObjectId": "6f21a67e-af5d-1234-8b99-ae1691d27167",
+        "managedObjectName": "HLCZ01G02_BGW03",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "BGW_DOWN",
+        "faultDetails": ["BGW HLCZ01G02_BGW03 with IP 10.73.250.103 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.250.103"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "BGW_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "6f21a67e-af5d-1234-8b99-ae1691d27167",
+        "vnfcNames": ["HLCZ01G02_BGW03"],
+        "vnfcIds": ["6f21a67e-af5d-1234-8b99-ae1691d27167"],
+        "managedObjectId": "6f21a67e-af5d-1234-8b99-ae1691d27167",
+        "managedObjectName": "HLCZ01G02_BGW03",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "BGW_DOWN",
+        "faultDetails": ["BGW HLCZ01G02_BGW03 with IP 10.73.250.103 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.250.103"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "BGW_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HLCZ01G02_BGW04",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "7g21b67e-af5d-5678-9b99-ae1691d27179",
+        "vnfcNames": ["HLCZ01G02_BGW04"],
+        "vnfcIds": ["7g21b67e-af5d-5678-9b99-ae1691d27179"],
+        "managedObjectId": "7g21b67e-af5d-5678-9b99-ae1691d27179",
+        "managedObjectName": "HLCZ01G02_BGW04",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "BGW_DOWN",
+        "faultDetails": ["BGW HLCZ01G02_BGW04 with IP 10.73.250.104 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.250.104"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "BGW_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "7g21b67e-af5d-5678-9b99-ae1691d27179",
+        "vnfcNames": ["HLCZ01G02_BGW04"],
+        "vnfcIds": ["7g21b67e-af5d-5678-9b99-ae1691d27179"],
+        "managedObjectId": "7g21b67e-af5d-5678-9b99-ae1691d27179",
+        "managedObjectName": "HLCZ01G02_BGW04",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "BGW_DOWN",
+        "faultDetails": ["BGW HLCZ01G02_BGW04 with IP 10.73.250.104 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.250.104"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "BGW_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HLCZ01G01_LEAF01",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "8h21c67e-af5d-9876-8b99-ae1691d27180",
+        "vnfcNames": ["HLCZ01G01_LEAF01"],
+        "vnfcIds": ["8h21c67e-af5d-9876-8b99-ae1691d27180"],
+        "managedObjectId": "8h21c67e-af5d-9876-8b99-ae1691d27180",
+        "managedObjectName": "HLCZ01G01_LEAF01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "LEAF_DOWN",
+        "faultDetails": ["LEAF HLCZ01G01_LEAF01 with IP 10.73.198.151 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.151"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "LEAF_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "8h21c67e-af5d-9876-8b99-ae1691d27180",
+        "vnfcNames": ["HLCZ01G01_LEAF01"],
+        "vnfcIds": ["8h21c67e-af5d-9876-8b99-ae1691d27180"],
+        "managedObjectId": "8h21c67e-af5d-9876-8b99-ae1691d27180",
+        "managedObjectName": "HLCZ01G01_LEAF01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "LEAF_DOWN",
+        "faultDetails": ["LEAF HLCZ01G01_LEAF01 with IP 10.73.198.151 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.151"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "LEAF_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HLCZ01G01_LEAF02",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "9i31d67e-af5d-5678-8b99-ae1691d27190",
+        "vnfcNames": ["HLCZ01G01_LEAF02"],
+        "vnfcIds": ["9i31d67e-af5d-5678-8b99-ae1691d27190"],
+        "managedObjectId": "9i31d67e-af5d-5678-8b99-ae1691d27190",
+        "managedObjectName": "HLCZ01G01_LEAF02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "LEAF_DOWN",
+        "faultDetails": ["LEAF HLCZ01G01_LEAF02 with IP 10.73.198.152 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.152"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "LEAF_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "9i31d67e-af5d-5678-8b99-ae1691d27190",
+        "vnfcNames": ["HLCZ01G01_LEAF02"],
+        "vnfcIds": ["9i31d67e-af5d-5678-8b99-ae1691d27190"],
+        "managedObjectId": "9i31d67e-af5d-5678-8b99-ae1691d27190",
+        "managedObjectName": "HLCZ01G01_LEAF02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "LEAF_DOWN",
+        "faultDetails": ["LEAF HLCZ01G01_LEAF02 with IP 10.73.198.152 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.152"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "LEAF_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HLCZ01G01_LB01",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "d21c67e1-af5d-4339-8b99-ae1691d27157",
+        "vnfcNames": ["HLCZ01G01_LB01"],
+        "vnfcIds": ["d21c67e1-af5d-4339-8b99-ae1691d27157"],
+        "managedObjectId": "d21c67e1-af5d-4339-8b99-ae1691d27157",
+        "managedObjectName": "HLCZ01G01_LB01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "LB_DOWN",
+        "faultDetails": ["LB HLCZ01G01_LB01 with IP 10.73.198.161 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.161"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "LB",
+          "errorCode": "LB_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "d21c67e1-af5d-4339-8b99-ae1691d27157",
+        "vnfcNames": ["HLCZ01G01_LB01"],
+        "vnfcIds": ["d21c67e1-af5d-4339-8b99-ae1691d27157"],
+        "managedObjectId": "d21c67e1-af5d-4339-8b99-ae1691d27157",
+        "managedObjectName": "HLCZ01G01_LB01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "LB_DOWN",
+        "faultDetails": ["LB HLCZ01G01_LB01 with IP 10.73.198.161 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.161"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "LB",
+          "errorCode": "LB_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HLCZ01G01_LB02",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "d21c67e2-af5d-4339-8b99-ae1691d27158",
+        "vnfcNames": ["HLCZ01G01_LB02"],
+        "vnfcIds": ["d21c67e2-af5d-4339-8b99-ae1691d27158"],
+        "managedObjectId": "d21c67e2-af5d-4339-8b99-ae1691d27158",
+        "managedObjectName": "HLCZ01G01_LB02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "LB_DOWN",
+        "faultDetails": ["LB HLCZ01G01_LB02 with IP 10.73.198.162 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.162"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "LB",
+          "errorCode": "LB_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "d21c67e2-af5d-4339-8b99-ae1691d27158",
+        "vnfcNames": ["HLCZ01G01_LB02"],
+        "vnfcIds": ["d21c67e2-af5d-4339-8b99-ae1691d27158"],
+        "managedObjectId": "d21c67e2-af5d-4339-8b99-ae1691d27158",
+        "managedObjectName": "HLCZ01G01_LB02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "LB_DOWN",
+        "faultDetails": ["LB HLCZ01G01_LB02 with IP 10.73.198.162 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.162"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "LB",
+          "errorCode": "LB_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HLCZ01G01_FW01",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "e21c67e1-af5d-4339-8b99-ae1691d27159",
+        "vnfcNames": ["HLCZ01G01_FW01"],
+        "vnfcIds": ["e21c67e1-af5d-4339-8b99-ae1691d27159"],
+        "managedObjectId": "e21c67e1-af5d-4339-8b99-ae1691d27159",
+        "managedObjectName": "HLCZ01G01_FW01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "FIREWALL_DOWN",
+        "faultDetails": ["FIREWALL HLCZ01G01_FW01 with IP 10.73.198.171 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.171"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "FIREWALL",
+          "errorCode": "FW_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "e21c67e1-af5d-4339-8b99-ae1691d27159",
+        "vnfcNames": ["HLCZ01G01_FW01"],
+        "vnfcIds": ["e21c67e1-af5d-4339-8b99-ae1691d27159"],
+        "managedObjectId": "e21c67e1-af5d-4339-8b99-ae1691d27159",
+        "managedObjectName": "HLCZ01G01_FW01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "FIREWALL_DOWN",
+        "faultDetails": ["FIREWALL HLCZ01G01_FW01 with IP 10.73.198.171 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.171"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "FIREWALL",
+          "errorCode": "FW_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HLCZ01G01_FW02",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "e21c67e2-af5d-4339-8b99-ae1691d27160",
+        "vnfcNames": ["HLCZ01G01_FW02"],
+        "vnfcIds": ["e21c67e2-af5d-4339-8b99-ae1691d27160"],
+        "managedObjectId": "e21c67e2-af5d-4339-8b99-ae1691d27160",
+        "managedObjectName": "HLCZ01G01_FW02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "FIREWALL_DOWN",
+        "faultDetails": ["FIREWALL HLCZ01G01_FW02 with IP 10.73.198.172 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.172"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "FIREWALL",
+          "errorCode": "FW_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "e21c67e2-af5d-4339-8b99-ae1691d27160",
+        "vnfcNames": ["HLCZ01G01_FW02"],
+        "vnfcIds": ["e21c67e2-af5d-4339-8b99-ae1691d27160"],
+        "managedObjectId": "e21c67e2-af5d-4339-8b99-ae1691d27160",
+        "managedObjectName": "HLCZ01G01_FW02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "FIREWALL_DOWN",
+        "faultDetails": ["FIREWALL HLCZ01G01_FW02 with IP 10.73.198.172 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.172"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "FIREWALL",
+          "errorCode": "FW_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HLCZ01G01_FW03",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "f21c67e3-af5d-4339-8b99-ae1691d27161",
+        "vnfcNames": ["HLCZ01G01_FW03"],
+        "vnfcIds": ["f21c67e3-af5d-4339-8b99-ae1691d27161"],
+        "managedObjectId": "f21c67e3-af5d-4339-8b99-ae1691d27161",
+        "managedObjectName": "HLCZ01G01_FW03",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "FIREWALL_DOWN",
+        "faultDetails": ["FIREWALL HLCZ01G01_FW03 with IP 10.73.198.173 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.173"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "FIREWALL",
+          "errorCode": "FW_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "f21c67e3-af5d-4339-8b99-ae1691d27161",
+        "vnfcNames": ["HLCZ01G01_FW03"],
+        "vnfcIds": ["f21c67e3-af5d-4339-8b99-ae1691d27161"],
+        "managedObjectId": "f21c67e3-af5d-4339-8b99-ae1691d27161",
+        "managedObjectName": "HLCZ01G01_FW03",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "FIREWALL_DOWN",
+        "faultDetails": ["FIREWALL HLCZ01G01_FW03 with IP 10.73.198.173 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.173"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "FIREWALL",
+          "errorCode": "FW_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HLCZ01G01_FW04",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "f21c67e4-af5d-4339-8b99-ae1691d27162",
+        "vnfcNames": ["HLCZ01G01_FW04"],
+        "vnfcIds": ["f21c67e4-af5d-4339-8b99-ae1691d27162"],
+        "managedObjectId": "f21c67e4-af5d-4339-8b99-ae1691d27162",
+        "managedObjectName": "HLCZ01G01_FW04",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "FIREWALL_DOWN",
+        "faultDetails": ["FIREWALL HLCZ01G01_FW04 with IP 10.73.198.174 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.174"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "FIREWALL",
+          "errorCode": "FW_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "f21c67e4-af5d-4339-8b99-ae1691d27162",
+        "vnfcNames": ["HLCZ01G01_FW04"],
+        "vnfcIds": ["f21c67e4-af5d-4339-8b99-ae1691d27162"],
+        "managedObjectId": "f21c67e4-af5d-4339-8b99-ae1691d27162",
+        "managedObjectName": "HLCZ01G01_FW04",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "FIREWALL_DOWN",
+        "faultDetails": ["FIREWALL HLCZ01G01_FW04 with IP 10.73.198.174 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.174"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "FIREWALL",
+          "errorCode": "FW_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HLCZ02G01_SPINE01",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "g21c67e3-af5d-4339-8b99-ae1691d27165",
+        "vnfcNames": ["HLCZ02G01_SPINE01"],
+        "vnfcIds": ["g21c67e3-af5d-4339-8b99-ae1691d27165"],
+        "managedObjectId": "g21c67e3-af5d-4339-8b99-ae1691d27165",
+        "managedObjectName": "HLCZ02G01_SPINE01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "SPINE_DOWN",
+        "faultDetails": ["SPINE HLCZ02G01_SPINE01 with IP 10.73.198.180 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.180"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "SPINE_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "g21c67e3-af5d-4339-8b99-ae1691d27165",
+        "vnfcNames": ["HLCZ02G01_SPINE01"],
+        "vnfcIds": ["g21c67e3-af5d-4339-8b99-ae1691d27165"],
+        "managedObjectId": "g21c67e3-af5d-4339-8b99-ae1691d27165",
+        "managedObjectName": "HLCZ02G01_SPINE01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "SPINE_DOWN",
+        "faultDetails": ["SPINE HLCZ02G01_SPINE01 with IP 10.73.198.180 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.180"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "SPINE_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HLCZ02G02_SPINE02",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "g21c67e4-af5d-4339-8b99-ae1691d27166",
+        "vnfcNames": ["HLCZ02G02_SPINE02"],
+        "vnfcIds": ["g21c67e4-af5d-4339-8b99-ae1691d27166"],
+        "managedObjectId": "g21c67e4-af5d-4339-8b99-ae1691d27166",
+        "managedObjectName": "HLCZ02G02_SPINE02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "SPINE_DOWN",
+        "faultDetails": ["SPINE HLCZ02G02_SPINE02 with IP 10.73.198.181 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.181"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "SPINE_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "g21c67e4-af5d-4339-8b99-ae1691d27166",
+        "vnfcNames": ["HLCZ02G02_SPINE02"],
+        "vnfcIds": ["g21c67e4-af5d-4339-8b99-ae1691d27166"],
+        "managedObjectId": "g21c67e4-af5d-4339-8b99-ae1691d27166",
+        "managedObjectName": "HLCZ02G02_SPINE02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "SPINE_DOWN",
+        "faultDetails": ["SPINE HLCZ02G02_SPINE02 with IP 10.73.198.181 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.181"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "SPINE_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HLCZ02G03_SPINE03",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "g21c67e5-af5d-4339-8b99-ae1691d27167",
+        "vnfcNames": ["HLCZ02G03_SPINE03"],
+        "vnfcIds": ["g21c67e5-af5d-4339-8b99-ae1691d27167"],
+        "managedObjectId": "g21c67e5-af5d-4339-8b99-ae1691d27167",
+        "managedObjectName": "HLCZ02G03_SPINE03",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "SPINE_DOWN",
+        "faultDetails": ["SPINE HLCZ02G03_SPINE03 with IP 10.73.198.182 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.182"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "SPINE_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "g21c67e5-af5d-4339-8b99-ae1691d27167",
+        "vnfcNames": ["HLCZ02G03_SPINE03"],
+        "vnfcIds": ["g21c67e5-af5d-4339-8b99-ae1691d27167"],
+        "managedObjectId": "g21c67e5-af5d-4339-8b99-ae1691d27167",
+        "managedObjectName": "HLCZ02G03_SPINE03",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "SPINE_DOWN",
+        "faultDetails": ["SPINE HLCZ02G03_SPINE03 with IP 10.73.198.182 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.182"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "SPINE_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HLCZ02G01_BGW01",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "d12c67e6-af5d-4339-8b99-ae1691d27168",
+        "vnfcNames": ["HLCZ02G01_BGW01"],
+        "vnfcIds": ["d12c67e6-af5d-4339-8b99-ae1691d27168"],
+        "managedObjectId": "d12c67e6-af5d-4339-8b99-ae1691d27168",
+        "managedObjectName": "HLCZ02G01_BGW01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "BGW_DOWN",
+        "faultDetails": ["BGW HLCZ02G01_BGW01 with IP 10.73.198.183 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.183"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "BGW_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "d12c67e6-af5d-4339-8b99-ae1691d27168",
+        "vnfcNames": ["HLCZ02G01_BGW01"],
+        "vnfcIds": ["d12c67e6-af5d-4339-8b99-ae1691d27168"],
+        "managedObjectId": "d12c67e6-af5d-4339-8b99-ae1691d27168",
+        "managedObjectName": "HLCZ02G01_BGW01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "BGW_DOWN",
+        "faultDetails": ["BGW HLCZ02G01_BGW01 with IP 10.73.198.183 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.183"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "BGW_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HLCZ02G01_BGW02",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "d12c67e7-af5d-4339-8b99-ae1691d27169",
+        "vnfcNames": ["HLCZ02G01_BGW02"],
+        "vnfcIds": ["d12c67e7-af5d-4339-8b99-ae1691d27169"],
+        "managedObjectId": "d12c67e7-af5d-4339-8b99-ae1691d27169",
+        "managedObjectName": "HLCZ02G01_BGW02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "BGW_DOWN",
+        "faultDetails": ["BGW HLCZ02G01_BGW02 with IP 10.73.198.184 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.184"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "BGW_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "d12c67e7-af5d-4339-8b99-ae1691d27169",
+        "vnfcNames": ["HLCZ02G01_BGW02"],
+        "vnfcIds": ["d12c67e7-af5d-4339-8b99-ae1691d27169"],
+        "managedObjectId": "d12c67e7-af5d-4339-8b99-ae1691d27169",
+        "managedObjectName": "HLCZ02G01_BGW02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "BGW_DOWN",
+        "faultDetails": ["BGW HLCZ02G01_BGW02 with IP 10.73.198.184 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.184"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "BGW_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HLCZ02G02_BGW03",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "f32c67e6-af5d-4339-8b99-ae1691d27170",
+        "vnfcNames": ["HLCZ02G02_BGW03"],
+        "vnfcIds": ["f32c67e6-af5d-4339-8b99-ae1691d27170"],
+        "managedObjectId": "f32c67e6-af5d-4339-8b99-ae1691d27170",
+        "managedObjectName": "HLCZ02G02_BGW03",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "BGW_DOWN",
+        "faultDetails": ["BGW HLCZ02G02_BGW03 with IP 10.73.198.185 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.185"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "BGW_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "f32c67e6-af5d-4339-8b99-ae1691d27170",
+        "vnfcNames": ["HLCZ02G02_BGW03"],
+        "vnfcIds": ["f32c67e6-af5d-4339-8b99-ae1691d27170"],
+        "managedObjectId": "f32c67e6-af5d-4339-8b99-ae1691d27170",
+        "managedObjectName": "HLCZ02G02_BGW03",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "BGW_DOWN",
+        "faultDetails": ["BGW HLCZ02G02_BGW03 with IP 10.73.198.185 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.185"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "BGW_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HLCZ02G02_BGW04",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "f32c67e7-af5d-4339-8b99-ae1691d27171",
+        "vnfcNames": ["HLCZ02G02_BGW04"],
+        "vnfcIds": ["f32c67e7-af5d-4339-8b99-ae1691d27171"],
+        "managedObjectId": "f32c67e7-af5d-4339-8b99-ae1691d27171",
+        "managedObjectName": "HLCZ02G02_BGW04",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "BGW_DOWN",
+        "faultDetails": ["BGW HLCZ02G02_BGW04 with IP 10.73.198.186 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.186"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "BGW_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "f32c67e7-af5d-4339-8b99-ae1691d27171",
+        "vnfcNames": ["HLCZ02G02_BGW04"],
+        "vnfcIds": ["f32c67e7-af5d-4339-8b99-ae1691d27171"],
+        "managedObjectId": "f32c67e7-af5d-4339-8b99-ae1691d27171",
+        "managedObjectName": "HLCZ02G02_BGW04",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "BGW_DOWN",
+        "faultDetails": ["BGW HLCZ02G02_BGW04 with IP 10.73.198.186 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.186"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "BGW_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HLCZ02G01_LEAF01",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "f92c67e6-af5d-4339-8b99-ae1691d27172",
+        "vnfcNames": ["HLCZ02G01_LEAF01"],
+        "vnfcIds": ["f92c67e6-af5d-4339-8b99-ae1691d27172"],
+        "managedObjectId": "f92c67e6-af5d-4339-8b99-ae1691d27172",
+        "managedObjectName": "HLCZ02G01_LEAF01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "LEAF_DOWN",
+        "faultDetails": ["LEAF HLCZ02G01_LEAF01 with IP 10.73.198.187 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.187"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "LEAF_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "f92c67e6-af5d-4339-8b99-ae1691d27172",
+        "vnfcNames": ["HLCZ02G01_LEAF01"],
+        "vnfcIds": ["f92c67e6-af5d-4339-8b99-ae1691d27172"],
+        "managedObjectId": "f92c67e6-af5d-4339-8b99-ae1691d27172",
+        "managedObjectName": "HLCZ02G01_LEAF01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "LEAF_DOWN",
+        "faultDetails": ["LEAF HLCZ02G01_LEAF01 with IP 10.73.198.187 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.187"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "LEAF_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HLCZ02G01_LEAF02",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "f92c67e7-af5d-4339-8b99-ae1691d27173",
+        "vnfcNames": ["HLCZ02G01_LEAF02"],
+        "vnfcIds": ["f92c67e7-af5d-4339-8b99-ae1691d27173"],
+        "managedObjectId": "f92c67e7-af5d-4339-8b99-ae1691d27173",
+        "managedObjectName": "HLCZ02G01_LEAF02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "LEAF_DOWN",
+        "faultDetails": ["LEAF HLCZ02G01_LEAF02 with IP 10.73.198.188 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.188"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "LEAF_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "f92c67e7-af5d-4339-8b99-ae1691d27173",
+        "vnfcNames": ["HLCZ02G01_LEAF02"],
+        "vnfcIds": ["f92c67e7-af5d-4339-8b99-ae1691d27173"],
+        "managedObjectId": "f92c67e7-af5d-4339-8b99-ae1691d27173",
+        "managedObjectName": "HLCZ02G01_LEAF02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "LEAF_DOWN",
+        "faultDetails": ["LEAF HLCZ02G01_LEAF02 with IP 10.73.198.188 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.188"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "SWITCH",
+          "errorCode": "LEAF_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  }, {
+    "deviceName": "HLCZ02G01_LB01",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "d47c67e8-af5d-4339-8b99-ae1691d27180",
+        "vnfcNames": ["HLCZ02G01_LB01"],
+        "vnfcIds": ["d47c67e8-af5d-4339-8b99-ae1691d27180"],
+        "managedObjectId": "d47c67e8-af5d-4339-8b99-ae1691d27180",
+        "managedObjectName": "HLCZ02G01_LB01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "LB_DOWN",
+        "faultDetails": ["LOAD BALANCER HLCZ02G01_LB01 with IP 10.73.198.189 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.189"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "LB",
+          "errorCode": "LB_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "d47c67e8-af5d-4339-8b99-ae1691d27180",
+        "vnfcNames": ["HLCZ02G01_LB01"],
+        "vnfcIds": ["d47c67e8-af5d-4339-8b99-ae1691d27180"],
+        "managedObjectId": "d47c67e8-af5d-4339-8b99-ae1691d27180",
+        "managedObjectName": "HLCZ02G01_LB01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "LB_DOWN",
+        "faultDetails": ["LOAD BALANCER HLCZ02G01_LB01 with IP 10.73.198.189 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.189"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "LB",
+          "errorCode": "LB_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HLCZ02G01_LB02",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "d47c67e9-af5d-4339-8b99-ae1691d27181",
+        "vnfcNames": ["HLCZ02G01_LB02"],
+        "vnfcIds": ["d47c67e9-af5d-4339-8b99-ae1691d27181"],
+        "managedObjectId": "d47c67e9-af5d-4339-8b99-ae1691d27181",
+        "managedObjectName": "HLCZ02G01_LB02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "LB_DOWN",
+        "faultDetails": ["LOAD BALANCER HLCZ02G01_LB02 with IP 10.73.198.190 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.190"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "LB",
+          "errorCode": "LB_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "d47c67e9-af5d-4339-8b99-ae1691d27181",
+        "vnfcNames": ["HLCZ02G01_LB02"],
+        "vnfcIds": ["d47c67e9-af5d-4339-8b99-ae1691d27181"],
+        "managedObjectId": "d47c67e9-af5d-4339-8b99-ae1691d27181",
+        "managedObjectName": "HLCZ02G01_LB02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "LB_DOWN",
+        "faultDetails": ["LOAD BALANCER HLCZ02G01_LB02 with IP 10.73.198.190 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.190"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "LB",
+          "errorCode": "LB_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HLCZ02G01_FW01",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "f67c67e8-af5d-4339-8b99-ae1691d27190",
+        "vnfcNames": ["HLCZ02G01_FW01"],
+        "vnfcIds": ["f67c67e8-af5d-4339-8b99-ae1691d27190"],
+        "managedObjectId": "f67c67e8-af5d-4339-8b99-ae1691d27190",
+        "managedObjectName": "HLCZ02G01_FW01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "FIREWALL_DOWN",
+        "faultDetails": ["FIREWALL HLCZ02G01_FW01 with IP 10.73.198.201 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.201"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "FIREWALL",
+          "errorCode": "FIREWALL_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "f67c67e8-af5d-4339-8b99-ae1691d27190",
+        "vnfcNames": ["HLCZ02G01_FW01"],
+        "vnfcIds": ["f67c67e8-af5d-4339-8b99-ae1691d27190"],
+        "managedObjectId": "f67c67e8-af5d-4339-8b99-ae1691d27190",
+        "managedObjectName": "HLCZ02G01_FW01",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "FIREWALL_DOWN",
+        "faultDetails": ["FIREWALL HLCZ02G01_FW01 with IP 10.73.198.201 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.201"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "FIREWALL",
+          "errorCode": "FIREWALL_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HLCZ02G01_FW02",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "f67c67e9-af5d-4339-8b99-ae1691d27191",
+        "vnfcNames": ["HLCZ02G01_FW02"],
+        "vnfcIds": ["f67c67e9-af5d-4339-8b99-ae1691d27191"],
+        "managedObjectId": "f67c67e9-af5d-4339-8b99-ae1691d27191",
+        "managedObjectName": "HLCZ02G01_FW02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "FIREWALL_DOWN",
+        "faultDetails": ["FIREWALL HLCZ02G01_FW02 with IP 10.73.198.202 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.202"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "FIREWALL",
+          "errorCode": "FIREWALL_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "f67c67e9-af5d-4339-8b99-ae1691d27191",
+        "vnfcNames": ["HLCZ02G01_FW02"],
+        "vnfcIds": ["f67c67e9-af5d-4339-8b99-ae1691d27191"],
+        "managedObjectId": "f67c67e9-af5d-4339-8b99-ae1691d27191",
+        "managedObjectName": "HLCZ02G01_FW02",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "FIREWALL_DOWN",
+        "faultDetails": ["FIREWALL HLCZ02G01_FW02 with IP 10.73.198.202 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.202"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "FIREWALL",
+          "errorCode": "FIREWALL_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HLCZ02G01_FW03",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "f67c67ea-af5d-4339-8b99-ae1691d27193",
+        "vnfcNames": ["HLCZ02G01_FW03"],
+        "vnfcIds": ["f67c67ea-af5d-4339-8b99-ae1691d27193"],
+        "managedObjectId": "f67c67ea-af5d-4339-8b99-ae1691d27193",
+        "managedObjectName": "HLCZ02G01_FW03",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "FIREWALL_DOWN",
+        "faultDetails": ["FIREWALL HLCZ02G01_FW03 with IP 10.73.198.203 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.203"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "FIREWALL",
+          "errorCode": "FIREWALL_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "f67c67ea-af5d-4339-8b99-ae1691d27193",
+        "vnfcNames": ["HLCZ02G01_FW03"],
+        "vnfcIds": ["f67c67ea-af5d-4339-8b99-ae1691d27193"],
+        "managedObjectId": "f67c67ea-af5d-4339-8b99-ae1691d27193",
+        "managedObjectName": "HLCZ02G01_FW03",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "FIREWALL_DOWN",
+        "faultDetails": ["FIREWALL HLCZ02G01_FW03 with IP 10.73.198.203 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.203"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "FIREWALL",
+          "errorCode": "FIREWALL_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  },
+  {
+    "deviceName": "HLCZ02G01_FW04",
+    "alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "f67c67eb-af5d-4339-8b99-ae1691d27194",
+        "vnfcNames": ["HLCZ02G01_FW04"],
+        "vnfcIds": ["f67c67eb-af5d-4339-8b99-ae1691d27194"],
+        "managedObjectId": "f67c67eb-af5d-4339-8b99-ae1691d27194",
+        "managedObjectName": "HLCZ02G01_FW04",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "FIREWALL_DOWN",
+        "faultDetails": ["FIREWALL HLCZ02G01_FW04 with IP 10.73.198.204 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.204"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "FIREWALL",
+          "errorCode": "FIREWALL_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    },
+    "resolve_alarm": {
+      "type": "AlarmNotification",
+      "notificationType": "ALARM_CLEARED_NOTIFICATION",
+      "alarmType": "PNF_OBJECT",
+      "alarm": {
+        "id": "f67c67eb-af5d-4339-8b99-ae1691d27194",
+        "vnfcNames": ["HLCZ02G01_FW04"],
+        "vnfcIds": ["f67c67eb-af5d-4339-8b99-ae1691d27194"],
+        "managedObjectId": "f67c67eb-af5d-4339-8b99-ae1691d27194",
+        "managedObjectName": "HLCZ02G01_FW04",
+        "alarmChangedTime": "2024-10-03T09:00:33.523+07:00",
+        "perceivedSeverity": "CRITICAL",
+        "eventTime": "2024-10-03T09:30:33.533+07:00",
+        "eventType": "EQUIPMENT_ALARM",
+        "probableCause": "FIREWALL_DOWN",
+        "faultDetails": ["FIREWALL HLCZ02G01_FW04 with IP 10.73.198.204 was down"],
+        "rootCauseFaultyComponent": {
+          "subObjectInstanceIp": "10.73.198.204"
+        },
+        "metadata": {
+          "manageSubObjectTargetType": "FIREWALL",
+          "errorCode": "FIREWALL_DOWN",
+          "manageObjectType": "PNF_OBJECT"
+        }
+      }
+    }
+  }
+  ]
