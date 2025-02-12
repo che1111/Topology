@@ -151,7 +151,7 @@ class App extends React.Component<{}, AppState> {
 
     const AppHeader = (
       <Masthead>
-        {/* <MastheadToggle>
+        <MastheadToggle>
           <PageToggleButton
             variant="plain"
             aria-label="Global navigation"
@@ -160,7 +160,7 @@ class App extends React.Component<{}, AppState> {
           >
             <BarsIcon />
           </PageToggleButton>
-        </MastheadToggle> */}
+        </MastheadToggle>
         <MastheadMain>
           <MastheadBrand component="a">
             {/* <Brand src={imgBrand} alt="Patternfly Logo" heights={{ default: '36px' }} /> */}
@@ -207,8 +207,8 @@ class App extends React.Component<{}, AppState> {
 
     return (
       <Router>
-        {/* <Page header={AppHeader} sidebar={AppSidebar} isManagedSidebar mainContainerId={this.pageId}> */}
-        <Page isManagedSidebar mainContainerId={this.pageId}>
+        <Page header={AppHeader} sidebar={AppSidebar} isManagedSidebar mainContainerId={this.pageId}>
+        {/* <Page isManagedSidebar mainContainerId={this.pageId}> */}
           {this.getPages()}
         </Page>
       </Router>

@@ -34,7 +34,7 @@ export const Demos: DemoInterface[] = [
   {
     id: 'topology-package',
     name: 'Topology Package',
-    componentType: StyleGroups,
+    componentType: TopologyPackage,
     isDefault: true
   },
   {
